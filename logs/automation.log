@@ -1,0 +1,17 @@
+15:13:41.793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java_Eclipse_practise\Automation_Excerise\test-output\testng-failed.xml
+
+15:16:31.842 [main] INFO  testCases.Registeruser - ************* started with Registeruser********** 
+15:16:34.168 [main] INFO  testCases.Registeruser - ************* clicked on signup or login ********** 
+15:16:34.421 [main] INFO  testCases.Registeruser - ************* entered new user details ********** 
+15:16:36.880 [main] INFO  testCases.Registeruser - ************* clicked on signupbutton ********** 
+15:34:07.066 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java_Eclipse_practise\Automation_Excerise\Master_testng.xml"
+15:35:08.983 [main] INFO  testCases.Registeruser - ************* started with Registeruser********** 
+15:35:10.982 [main] INFO  testCases.Registeruser - ************* clicked on signup or login ********** 
+15:35:11.261 [main] INFO  testCases.Registeruser - ************* entered new user details ********** 
+15:35:12.635 [main] INFO  testCases.Registeruser - ************* clicked on signupbutton ********** 
+15:36:16.347 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java_Eclipse_practise\Automation_Excerise\Master_testng.xml"
+15:38:23.259 [main] INFO  testCases.Registeruser - ************* started with Registeruser********** 
+15:38:27.344 [main] INFO  testCases.Registeruser - ************* clicked on signup or login ********** 
+15:38:27.720 [main] INFO  testCases.Registeruser - ************* entered new user details ********** 
+15:38:30.177 [main] INFO  testCases.Registeruser - ************* clicked on signupbutton ********** 

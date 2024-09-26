@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<groups>
+		<run>
+			<include name="master"/>
+		<exclude name="sanity"/>
+		<!--		<exclude name="regresssion"/>-->
+		</run>
+	</groups>
+	<test name="ChromeTest">
+		<parameter name="os" value="Window" />
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="testCases.LoginDDT" />
+			<class name="testCases.Registeruser" />
+			<class name="testCases.Loginuser" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
